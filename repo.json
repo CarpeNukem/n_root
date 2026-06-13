@@ -1,0 +1,50 @@
+[
+  {
+    "Author": "Carpe Nukem",
+    "Name": "The Grid Cyberdeck",
+    "Punchline": "A cyberdeck companion for The Grid venue.",
+    "Description": "Opens a cyberdeck-style venue app with map, menu, syncshell, Discord, local network presence, and Penumbra update tools for The Grid.",
+    "Tags": [
+      "penumbra",
+      "modding",
+      "utility"
+    ],
+    "InternalName": "GridNrootUpdate",
+    "AssemblyVersion": "0.6.0.0",
+    "IconUrl": "https://raw.githubusercontent.com/CarpeNukem/grid_nroot_update/main/grid.png",
+    "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/CarpeNukem/grid_nroot_update/releases/download/plugin-v0.6.0/GridNrootUpdate-0.6.0.zip",
+    "DownloadLinkUpdate": "https://github.com/CarpeNukem/grid_nroot_update/releases/download/plugin-v0.6.0/GridNrootUpdate-0.6.0.zip",
+    "DownloadLinkTesting": "https://github.com/CarpeNukem/grid_nroot_update/releases/download/plugin-v0.6.0/GridNrootUpdate-0.6.0.zip"
+  },
+  {
+    "Author": "Carpe Nukem",
+    "Name": "xivAMP",
+    "InternalName": "xivAMP",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Punchline": "Winamp-inspired Penumbra playlist switching for syncshell DJing.",
+    "Description": "Plan and perform Penumbra music-option playlists with Winamp-style controls - skinnable .wsz UI, playlist, window-shade modes and spectrum analyzer. Use /xivamp to open the player.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/CarpeNukem/xivamp",
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/CarpeNukem/xivamp/main/xivAMP/xivamp.png",
+    "Tags": [
+      "penumbra",
+      "music",
+      "playlist",
+      "syncshell",
+      "winamp"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/CarpeNukem/xivamp/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/CarpeNukem/xivamp/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/CarpeNukem/xivamp/releases/latest/download/latest.zip"
+  }
+]
