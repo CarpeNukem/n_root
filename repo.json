@@ -23,8 +23,8 @@
     "Author": "Carpe Nukem",
     "Name": "xivAMP",
     "InternalName": "xivAMP",
-    "AssemblyVersion": "0.1.1.0",
-    "TestingAssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.5.0.0",
+    "TestingAssemblyVersion": "0.5.0.0",
     "Punchline": "Winamp-inspired Penumbra playlist switching for syncshell DJing.",
     "Description": "Plan and perform Penumbra music-option playlists with Winamp-style controls - skinnable .wsz UI, playlist, window-shade modes and spectrum analyzer. Use /xivamp to open the player.",
     "ApplicableVersion": "any",
@@ -43,8 +43,8 @@
       "utility"
     ],
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/CarpeNukem/xivamp/releases/download/v0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/CarpeNukem/xivamp/releases/download/v0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/CarpeNukem/xivamp/releases/download/v0.1.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/CarpeNukem/xivamp/releases/download/v0.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/CarpeNukem/xivamp/releases/download/v0.5.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/CarpeNukem/xivamp/releases/download/v0.5.0/latest.zip"
   }
 ]
